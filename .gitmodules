@@ -1,3 +1,0 @@
-[submodule "libaccounts-glib"]
-	path = libaccounts-glib
-	url = https://gitlab.com/accounts-sso/libaccounts-glib.git
